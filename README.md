@@ -1,0 +1,2 @@
+# JenkinsDemoApp
+com.test.JenkinsDemoApp

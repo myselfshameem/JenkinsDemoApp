@@ -18,7 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     return YES;
-  //This is from Master branch
+  //Merge this kine to Master Branch
 }
 
 
